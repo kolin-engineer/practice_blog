@@ -1,0 +1,13 @@
+@import "components/layers";
+
+.title-1 {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.title-2 {
+  @apply "font-semibold text-2xl";
+}
+
+.title-section {
+  @apply "text-xl font-thin";
+}

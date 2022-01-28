@@ -1,0 +1,11 @@
+.nuxt
+
+node_modules
+
+*.log
+
+# secrets
+.env
+
+# osx
+.DS_STORE
